@@ -1,7 +1,5 @@
 def my_hash
-  oscar = {
-
-  
+  oscar = {"name" => "Oscar", "age" => "21", "height" => "5ft 11", "eye_color" => "brown"}
 end
 
 
